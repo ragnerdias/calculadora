@@ -2,6 +2,4 @@
 
 ## Lista de alunos que participaram
 
-- Allan Gonçalves da Cruz 
-- Eduardo Araujo
-- Raphael Guedes
+- Allan Gonçalves da Cruz
