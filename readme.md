@@ -7,3 +7,4 @@
 - Saulo Fernandes Antonio da Costa
 - Jean Carlos Gomes Martins
 - Leandro Alves
+- Hyago Cabral Silva
